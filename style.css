@@ -1,0 +1,51 @@
+body{
+  background-color :#889C41;
+}
+#title{
+  color: #FFFFFF;
+  font-size:40px;
+  text-align:center;
+}
+.t2{
+  text-align:center;
+  }
+#image-div{
+  background: #FFFFFF;
+  padding: 10px;
+  margin:auto;
+}
+#image{
+  max-width:100%;
+  display:block;
+  margin: auto;
+  height: auto;
+}
+#img-caption{
+  text-align: center;
+  color: #00000;
+}
+#tribute-info{
+  text-align: center;
+  color: #00000;
+  size:10px;
+}
+li{
+  display: list-item;
+  text-align: -webkit-match-parent;
+  margin: 16px;}
+ul{
+  max-width: 700px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  size:15px;
+}
+#more{
+  text-align: center;
+  color: #00000;
+}
+#my-work{
+  text-align: center;
+  color: #FFFFFF;
+  size:20px;
+}

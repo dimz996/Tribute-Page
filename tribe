@@ -1,0 +1,16 @@
+<DOCTYPE HTML>
+ <html lan="en">
+ <head>
+   <title>Tribute Page</title>
+   </head>
+  <main id="main">
+  <div>  <p id="title">Dr. Norman Borlaug</p>
+    </div>
+    <div>
+    <p class="t2">The one who saved billions of lives</p>
+    </div>
+    <div id="image-div">
+      <img src="D:\New folder (2)\Tribute page\images.jpg" width:100px; height:100px;
+    </div>
+    </main>
+    </html>
